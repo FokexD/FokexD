@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FokexD
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python and medical.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on instagram.com/whatthefoke_
 
 <!---
